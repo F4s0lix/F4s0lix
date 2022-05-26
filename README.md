@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F4s0lix
 - 👀 I’m interested in programming and playing with hardware
-- 🌱 I’m currently learning Python, NodeJS, TypeScript and NestJS
+- 🌱 I’m currently learning Python and Flutter
 - 📫 Reach me on my instagram : @f4s0lix.css 
 
 <!---
